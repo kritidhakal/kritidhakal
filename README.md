@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kritidhakal
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently working using django framework.
 - 📫 How to reach me https://www.linkedin.com/in/kriti-dhakal-42b928212
 
 <!---
